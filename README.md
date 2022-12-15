@@ -2,7 +2,7 @@
 www.dio.me
 
 ## Desafio de projeto
-Desafio #1 da trilha .NET.
+Desafio #2 da trilha .NET.
 Construir um sistema de hospedagem, que será usado para realizar uma reserva em um hotel.
 O programa calcula corretamente os valores dos métodos da classe Reserva, que precisará trazer a quantidade de hóspedes e o valor da diária, concedendo um desconto de 10% para caso a reserva seja para um período maior que 10 dias.
 
